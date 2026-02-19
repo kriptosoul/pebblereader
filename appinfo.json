@@ -1,0 +1,16 @@
+{
+  "uuid": "12345678-1234-1234-1234-1234567890ab",
+  "shortName": "HolaMundo",
+  "longName": "Hola Mundo Pebble",
+  "companyName": "JairoMontilla",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "watchapp": {
+    "watchface": false
+  },
+  "targetPlatforms": ["basalt"],
+  "resources": {
+    "media": []
+  },
+  "capabilities": []
+}
